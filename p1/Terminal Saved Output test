@@ -1,0 +1,68 @@
+Last login: Mon Jan 22 13:06:15 on ttys001
+You have mail.
+ICIL-iMac32:~ istudent$ ls
+Applications					Movies
+Creative Cloud Files				Music
+Desktop						Pictures
+Documents					Public
+Downloads					ketrixz@gmail.com Creative Cloud Files
+ENIGMAXDISCIPLE@GMAIL.COM Creative Cloud Files	tpriyoh@gmail.com Creative Cloud Files
+Library
+ICIL-iMac32:~ istudent$ cd Desktop
+ICIL-iMac32:Desktop istudent$ ls
+Certiport Mac Launcher.inetloc	p1
+ICIL-iMac32:Desktop istudent$ cd p1
+ICIL-iMac32:p1 istudent$ ls
+about.html	assets		bio.html	index.html
+ICIL-iMac32:p1 istudent$ emacs test.cpp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#include <iostream>
+using namespace	std;
+
+int main
+{
+cout >> "hell there!";
+
+ return, 0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-uuu:**-F1  test.cpp       All L9     (C++/l Abbrev)--------------------------------------------------
+Auto-saving...done
